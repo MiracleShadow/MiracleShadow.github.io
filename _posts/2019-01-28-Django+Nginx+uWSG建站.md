@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      "Django+Nginx+uWSG建站"
 subtitle:   "Linux系统环境太复杂了。。。 "
@@ -6,7 +7,9 @@ author:     "ZZH"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Linux
-    - MySQL
+    - Django
+    - Nginx
+---
 
 ### 安装python3.6
 
